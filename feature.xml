@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
       id="ch.rhj.eclipse.tools.feature"
-      label="Foo Feature"
+      label="RHJ Eclipse Tools Feature"
       version="0.0.1.qualifier"
       provider-name="Roger H. Jörg">
 
