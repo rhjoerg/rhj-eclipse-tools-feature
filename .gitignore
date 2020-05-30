@@ -2,3 +2,4 @@
 /target/plugins
 /target/artifacts.jar
 /target/content.jar
+/target/*.zip
